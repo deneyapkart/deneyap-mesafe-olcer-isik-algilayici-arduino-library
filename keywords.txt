@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map For	Deneyap_MesafeOlcerIsikAlgilayici
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+Deneyap_MesafeOlcerIsikAlgilayici	KEYWORD1
+
+####################################
+# Class (KEYWORD1)
+####################################
+
+ProximityAL	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin				KEYWORD2
+init				KEYWORD2
+startSensor			KEYWORD2
+softwareReset			KEYWORD2
+setALSmode			KEYWORD2
+setALSgain			KEYWORD2
+getALSgain			KEYWORD2
+setPSmode			KEYWORD2
+setPSsaturationIndicator	KEYWORD2
+setPSledPulseFreq		KEYWORD2
+setPSledDutyCycle		KEYWORD2
+setPSledPeakCurrent		KEYWORD2
+setPSledPulse			KEYWORD2
+setPSmeasurementRate		KEYWORD2
+setALSintegrationTime		KEYWORD2
+getALSintegrationTime		KEYWORD2
+setALSmeasurementRate		KEYWORD2
+getPartNumberID			KEYWORD2
+getRevisionID			KEYWORD2
+getManufacturerID		KEYWORD2
+getPSvalue			KEYWORD2
+getALSCH0value			KEYWORD2
+getALSCH1value			KEYWORD2
+getLuxValue			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
